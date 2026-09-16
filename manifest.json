@@ -1,0 +1,10 @@
+{
+  "name": "E-Commerce PWA",
+  "short_name": "E-Store",
+  "description": "An offline-ready e-commerce Progressive Web App.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50"
+}
